@@ -5,4 +5,4 @@ This is my first game made with scratch, scratch is simple indeed, this little p
 
 The rule of the game: hit the foe with your "belgha" using space key, but only if the foe rise his hand with the intention to hit you, else you will be disqualified, have fun!
 
-#### Get Handak Lbelgha (2.20 M) : [download here](https://raw.githubusercontent.com/monsef-alahem/Handak-Lbelgha/master/andak%20%lbelgha.sb2)
+#### Get Handak Lbelgha (2.20 M) : [download here](https://github.com/monsef-alahem/Handak-Lbelgha/raw/master/andak%20lbelgha.sb2)
